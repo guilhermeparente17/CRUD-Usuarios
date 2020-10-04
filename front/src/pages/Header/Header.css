@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 20px;
+    background-color:#212B38;
+    border-bottom: solid 3px #4caf50;
+
+
+}
+
+header h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color:#4caf50;
+}
